@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'font-evosome';
-  src:  url('fonts/font-evosome.eot?8leql6');
-  src:  url('fonts/font-evosome.eot?8leql6#iefix') format('embedded-opentype'),
-    url('fonts/font-evosome.ttf?8leql6') format('truetype'),
-    url('fonts/font-evosome.woff?8leql6') format('woff'),
-    url('fonts/font-evosome.svg?8leql6#font-evosome') format('svg');
+  src:  url('fonts/font-evosome.eot?bxr62e');
+  src:  url('fonts/font-evosome.eot?bxr62e#iefix') format('embedded-opentype'),
+    url('fonts/font-evosome.ttf?bxr62e') format('truetype'),
+    url('fonts/font-evosome.woff?bxr62e') format('woff'),
+    url('fonts/font-evosome.svg?bxr62e#font-evosome') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fe-assignment-thicker:before {
+  content: "\e907";
+}
 .fe-assignment:before {
   content: "\e900";
 }
