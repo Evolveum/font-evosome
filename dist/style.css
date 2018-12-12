@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'font-evosome';
-  src:  url('fonts/font-evosome.eot?bxr62e');
-  src:  url('fonts/font-evosome.eot?bxr62e#iefix') format('embedded-opentype'),
-    url('fonts/font-evosome.ttf?bxr62e') format('truetype'),
-    url('fonts/font-evosome.woff?bxr62e') format('woff'),
-    url('fonts/font-evosome.svg?bxr62e#font-evosome') format('svg');
+  src:  url('fonts/font-evosome.eot?nt43og');
+  src:  url('fonts/font-evosome.eot?nt43og#iefix') format('embedded-opentype'),
+    url('fonts/font-evosome.ttf?nt43og') format('truetype'),
+    url('fonts/font-evosome.woff?nt43og') format('woff'),
+    url('fonts/font-evosome.svg?nt43og#font-evosome') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-.fe {
+i {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'font-evosome' !important;
   speak: none;
@@ -24,27 +24,48 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.fe-assignment-thicker:before {
-  content: "\e907";
+.fe-officer-cap-object:before {
+  content: "\e90b";
 }
-.fe-assignment:before {
+.fe-assignment-straight-thicker-object:before {
+  content: "\e90a";
+}
+.fe-unemployer-icon:before {
+  content: "\e910";
+}
+.fe-employer-icon:before {
+  content: "\e911";
+}
+.fe-assignment-straight-object:before {
+  content: "\e912";
+}
+.fe-crown-object:before {
   content: "\e900";
 }
-.fe-midpoint-shorter-lines:before {
+.fe-approver-object:before {
   content: "\e901";
 }
-.fe-midpoint-wheel:before {
+.fe-assignment:before {
   content: "\e902";
 }
-.fe-midpoint-with-lines:before {
+.fe-midpoint-shorter-lines:before {
   content: "\e903";
 }
-.fe-role-hat:before {
+.fe-midpoint-wheel:before {
   content: "\e904";
 }
-.fe-role-tie:before {
+.fe-midpoint-with-lines:before {
   content: "\e905";
 }
-.fe-role-top-hat:before {
+.fe-role-hat:before {
   content: "\e906";
+}
+.fe-role-tie:before {
+  content: "\e907";
+}
+.fe-role-top-hat:before {
+  content: "\e908";
+}
+.fe-assignment-thicker:before {
+  content: "\e909";
 }
