@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "name": "Font-evosome mission",
+    "name": "Font-evosome1.0.3",
     "lastOpened": 0,
     "created": 1546863087213
   },
@@ -8,12 +8,20 @@
     {
       "selection": [
         {
+          "order": 145,
+          "id": 22,
+          "name": "archetype_smooth",
+          "prevSize": 32,
+          "code": 59672,
+          "tempChar": ""
+        },
+        {
           "order": 118,
           "id": 1,
           "name": "crown-object",
           "prevSize": 32,
           "code": 59648,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 127,
@@ -21,7 +29,7 @@
           "name": "approver-object",
           "prevSize": 32,
           "code": 59649,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 128,
@@ -29,7 +37,7 @@
           "name": "manager-tie-object",
           "prevSize": 32,
           "code": 59659,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 129,
@@ -37,7 +45,7 @@
           "name": "policeman-object",
           "prevSize": 32,
           "code": 59660,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 119,
@@ -45,7 +53,7 @@
           "name": "action-draft",
           "prevSize": 32,
           "code": 59661,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 120,
@@ -53,7 +61,7 @@
           "name": "action-locked",
           "prevSize": 32,
           "code": 59662,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 122,
@@ -61,7 +69,7 @@
           "name": "action-assign",
           "prevSize": 32,
           "code": 59663,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 130,
@@ -69,7 +77,7 @@
           "name": "assign-horizontal-A",
           "prevSize": 32,
           "code": 59664,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 131,
@@ -77,7 +85,7 @@
           "name": "assign-horizontal-B",
           "prevSize": 32,
           "code": 59665,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 121,
@@ -85,7 +93,7 @@
           "name": "assignment-horizontal-slim",
           "prevSize": 32,
           "code": 59666,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 132,
@@ -93,7 +101,7 @@
           "name": "assignment-horizontal-thick",
           "prevSize": 32,
           "code": 59658,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 0,
@@ -109,7 +117,7 @@
           "name": "unemployee-object",
           "prevSize": 32,
           "code": 59667,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 125,
@@ -124,10 +132,10 @@
             59671
           ],
           "tempChar": [
-            "",
             "",
             "",
-            ""
+            "",
+            ""
           ]
         },
         {
@@ -150,6 +158,26 @@
       "height": 1024,
       "prevSize": 32,
       "icons": [
+        {
+          "id": 22,
+          "paths": [
+            "M918.4 112h41.6v-1.6c0 0-1.6-56-59.2-57.6 0 0-28.8 0-57.6 30.4-318.4 318.4-772.8 771.2-772.8 771.2-28.8 32-28.8 60.8-28.8 60.8s-1.6 60.8 56 60.8c8 0 32 0 64 0l339.2-344c20.8-20.8 33.6-4.8 49.6 12.8 12.8 12.8 169.6 172.8 208 209.6 14.4 14.4 14.4 20.8 14.4 51.2v72c110.4 0 128 0 128 0s60.8-6.4 60.8-62.4v-3.2h-40c0 0-14.4 1.6-14.4-16s14.4-16 14.4-16h38.4c0-16 0-38.4 0-64h-40c0 0-14.4 1.6-14.4-16s14.4-16 14.4-16h40c0-19.2 0-41.6 0-64h-40c0 0-14.4 1.6-14.4-16s14.4-16 14.4-16h40c0-20.8 0-41.6 0-64h-40c0 0-14.4 1.6-14.4-16s14.4-16 14.4-16h40c0-20.8 0-43.2 0-64h-40c0 0-14.4 1.6-14.4-16s14.4-16 14.4-16h40c0-20.8 0-43.2 0-64h-40c0 0-14.4 1.6-14.4-16s14.4-16 14.4-16h40c0-22.4 0-43.2 0-64h-40c0 0-14.4 1.6-14.4-16s14.4-16 14.4-16h40c0-22.4 0-44.8 0-64h-40c0 0-14.4 1.6-14.4-16s14.4-16 14.4-16h40c0-25.6 0-48 0-64h-40c0 0-14.4 1.6-14.4-16-1.6-17.6 12.8-16 12.8-16zM816 684.8c0 24-11.2 28.8-32 8-36.8-36.8-137.6-136-150.4-147.2-16-16-33.6-28.8-12.8-49.6 0 0 3.2-3.2 140.8-140.8 12.8-12.8 27.2-12.8 27.2-12.8 25.6 1.6 27.2 25.6 27.2 25.6s-0 291.2-0 316.8z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "archetype_smooth"
+          ],
+          "colorPermutations": {
+            "113334331": [
+              {}
+            ]
+          }
+        },
         {
           "id": 1,
           "paths": [
@@ -551,7 +579,7 @@
           "prevSize": 32,
           "code": 59650,
           "name": "assignment",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "id": 2,
@@ -560,7 +588,7 @@
           "prevSize": 32,
           "code": 59651,
           "name": "midpoint-shorter-lines",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "id": 3,
@@ -569,7 +597,7 @@
           "prevSize": 32,
           "code": 59652,
           "name": "midpoint-wheel",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "id": 4,
@@ -578,7 +606,7 @@
           "prevSize": 32,
           "code": 59653,
           "name": "midpoint-with-lines",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "id": 5,
@@ -587,7 +615,7 @@
           "prevSize": 32,
           "code": 59654,
           "name": "role-hat",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "id": 6,
@@ -596,7 +624,7 @@
           "prevSize": 32,
           "code": 59655,
           "name": "role-tie",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "id": 7,
@@ -605,7 +633,7 @@
           "prevSize": 32,
           "code": 59656,
           "name": "role-top-hat",
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "id": 8,
@@ -614,7 +642,7 @@
           "prevSize": 32,
           "code": 59657,
           "name": "assignment-thicker",
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
@@ -775,13 +803,13 @@
       "showVersion": true
     },
     "imagePref": {
-      "prefix": "icon-",
+      "prefix": "fe-",
       "png": true,
       "useClassSelector": true,
       "color": 0,
       "bgColor": 16777215,
       "classSelector": ".icon",
-      "name": "icomoon",
+      "name": "font-evosome",
       "height": 32,
       "columns": 16,
       "margin": 16
@@ -794,6 +822,5 @@
       "UntitledProject": "YTE4Yzk0YTNkMDFkYzMzMTVhYzIzYjVkMDA5OTJiYzAjMSMxNTQzNTkyMTcyIyMj"
     }
   },
-  "uid": -1,
-  "time": 1547124842321
+  "uid": -1
 }
