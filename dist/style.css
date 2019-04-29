@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'font-evosome';
-  src:  url('fonts/font-evosome.eot?exf904');
-  src:  url('fonts/font-evosome.eot?exf904#iefix') format('embedded-opentype'),
-    url('fonts/font-evosome.ttf?exf904') format('truetype'),
-    url('fonts/font-evosome.woff?exf904') format('woff'),
-    url('fonts/font-evosome.svg?exf904#font-evosome') format('svg');
+  src:  url('fonts/font-evosome.eot?esr466');
+  src:  url('fonts/font-evosome.eot?esr466#iefix') format('embedded-opentype'),
+    url('fonts/font-evosome.ttf?esr466') format('truetype'),
+    url('fonts/font-evosome.woff?esr466') format('woff'),
+    url('fonts/font-evosome.svg?esr466#font-evosome') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,26 +24,26 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fe-lock-object:before {
+  content: "\e90e";
+}
+.fe-action-draft:before {
+  content: "\e90d";
+}
 .fe-archetype_smooth:before {
   content: "\e918";
 }
 .fe-crown-object:before {
   content: "\e900";
 }
-.fe-approver-object:before {
-  content: "\e901";
-}
 .fe-manager-tie-object:before {
   content: "\e90b";
 }
+.fe-approver-object:before {
+  content: "\e901";
+}
 .fe-policeman-object:before {
   content: "\e90c";
-}
-.fe-action-draft:before {
-  content: "\e90d";
-}
-.fe-action-locked:before {
-  content: "\e90e";
 }
 .fe-action-assign:before {
   content: "\e90f";
@@ -59,6 +59,9 @@ i {
 }
 .fe-assignment-horizontal-thick:before {
   content: "\e90a";
+}
+.fe-assignment-45angle-nocircle:before {
+  content: "\e919";
 }
 .fe-unemployee-object:before {
   content: "\e913";
