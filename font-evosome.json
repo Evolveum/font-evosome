@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "name": "Font-evosome1.0.5",
+    "name": "Font-evosome1.0.6",
     "lastOpened": 0,
     "created": 1546863087213
   },
@@ -218,7 +218,7 @@
     {
       "selection": [
         {
-          "order": 156,
+          "order": 166,
           "id": 24,
           "name": "lock-object",
           "prevSize": 32,
@@ -365,7 +365,7 @@
           "tempChar": ""
         },
         {
-          "order": 157,
+          "order": 164,
           "id": 25,
           "name": "request-arrow",
           "prevSize": 32,
@@ -373,20 +373,44 @@
           "tempChar": ""
         },
         {
-          "order": 162,
+          "order": 165,
           "id": 29,
           "name": "handy",
           "prevSize": 32,
           "code": 59677,
           "tempChar": ""
+        },
+        {
+          "order": 163,
+          "id": 30,
+          "name": "no-line",
+          "prevSize": 32,
+          "code": 59678,
+          "tempChar": ""
+        },
+        {
+          "order": 168,
+          "id": 32,
+          "name": "file",
+          "prevSize": 32,
+          "code": 59679,
+          "tempChar": ""
+        },
+        {
+          "order": 171,
+          "id": 33,
+          "name": "no-file",
+          "prevSize": 32,
+          "code": 59680,
+          "tempChar": ""
         }
       ],
       "id": 1,
       "metadata": {
         "name": "font-evosome-mp",
         "importSize": {
-          "width": 1024,
-          "height": 1024
+          "width": 64,
+          "height": 64
         },
         "designer": "Evolveum s.r.o.",
         "designerURL": "https://evolveum.com"
@@ -869,6 +893,79 @@
               {}
             ]
           }
+        },
+        {
+          "id": 30,
+          "paths": [
+            "M76.8 30.4l-52.8 52.8 920 916.8 52.8-52.8z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "no-line"
+          ],
+          "colorPermutations": {
+            "113334331": [
+              {}
+            ]
+          }
+        },
+        {
+          "id": 32,
+          "paths": [
+            "M640 80v67.2l144 156.8h62.4z",
+            "M576 144v224h208v528h-528v-752h320zM640 80h-448v880h656v-656h-208v-224z",
+            "M628.083 147.485l20.748-19.973 158.673 164.828-20.748 19.973-158.673-164.828z"
+          ],
+          "attrs": [
+            {},
+            {},
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "file"
+          ],
+          "colorPermutations": {
+            "113334331": [
+              {},
+              {},
+              {}
+            ]
+          }
+        },
+        {
+          "id": 33,
+          "paths": [
+            "M560 144v224h208v528h-528v-752h320zM624 80h-448v880h656v-656h-208v-224z",
+            "M378.365 434.784l316.781 316.781-66.75 66.75-316.781-316.781 66.75-66.75z",
+            "M694.445 500.594l-316.781 316.781-66.75-66.75 316.781-316.781 66.75 66.75z",
+            "M832 304l-208-224h-16l11.2 73.6 4.8 6.4 148.8 160h57.6z"
+          ],
+          "attrs": [
+            {},
+            {},
+            {},
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "no-file"
+          ],
+          "colorPermutations": [
+            null,
+            null,
+            null,
+            null
+          ]
         }
       ],
       "invisible": false,
