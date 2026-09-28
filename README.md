@@ -13,6 +13,12 @@ Special symbol font for midPoint and other applications.
 1. Click manage projects and download json for project **font-evosome**
     1. Replace existing font-evosome.json in this repository
 
+# Important properties
+- It is important to set correct settings and font metrics to:
+  - Em square height: **1024**
+  - Baseline height: **12.5**
+  - Class prefix: **fe-**
+
 # Example
 
 Html page with examples is located in **dist/demo.html**.
